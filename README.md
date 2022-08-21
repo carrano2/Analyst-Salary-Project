@@ -2,7 +2,7 @@
 
 ## Business Question(s):
 
-What are the average salaries per skill level for Analyst jobs in the US? What is the average job salary I can reasonably expect as a data analyst as a result of my current skill level?
+What are the average yearly salaries per skill level for Analyst jobs in the US? What is the average yearly job salary I can reasonably expect as a data analyst as a result of my current skill level?
 
 I will use my Excel, Python, and SQL skills to answer this question in two different ways.
 
