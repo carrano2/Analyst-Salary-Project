@@ -44,4 +44,4 @@ Principal Data Analyst--Intermediate/Senior-level   $170,000.00
 
 ## Application:
 
-Due to my current skill level as a budding analyst I can reasonably expect a salary between 55k as an Entry Level BI Analyst and 73k a year as an Entry Level Data Analyst depending on which job I end up getting.  I am not qualified for Entry Level Financial Analyst position as I do not hold a degree in Finance nor am I qualified for a Entry Level Business Data Analyst role as I do not hold a degree in business.
+Due to my current skill level as a budding analyst, I can reasonably expect a salary between 55k a year as an Entry Level BI Analyst and 73k a year as an Entry Level Data Analyst depending on which job I end up getting.  I am not qualified for Entry Level Financial Analyst position as I do not hold a degree in finance nor am I qualified for a Entry Level Business Data Analyst role as I do not hold a degree in business.
