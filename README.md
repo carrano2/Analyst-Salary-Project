@@ -10,7 +10,7 @@ I will use my Excel, Python, and SQL skills to answer this question in two diffe
 
 https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
 
-##Findings
+## Findings
 
 Based off the data I analyzed the average yearly salaries are as follows:
 
@@ -29,6 +29,6 @@ Lead Data Analyst--Junior/Mid-level             $87,000.00
 Lead Data Analyst--Intermediate/Senior-level    $170,000.00
 Principal Data Analyst--Intermediate/Senior-level   170000.000000
 
-##Application:
+## Application:
 
 Due to my current skill level as a budding analyst I can reasonably expect a salary between 55k as an Entry Level BI Analyst and 73k a year as an Entry Level Data Analyst depending on which job I end up getting.  I am not qualified for Entry Level Financial Analyst position as I do not hold a degree in Finance nor am I qualified for a Entry Level Business Data Analyst role as I do not hold a degree in business.
