@@ -1,8 +1,9 @@
 # Analyst Salary Project
 
-## Business Question(s):
+## Business Question:
 
 What are the average yearly salaries per skill level for Analyst jobs in the US?
+
 
 I will use my Excel, Python, and SQL skills to answer this question in two different ways.
 
